@@ -36,16 +36,12 @@ As principais habilidades que que aprendemos no curso incluem:
 
 ## Conteúdo
 
-- `Projeto 2 - Previsão de renda.ipynb`: Este notebook Jupyter contém o código do projeto de previsão de renda. Ele inclui análises exploratórias de dados, desenvolvimento e treinamento de modelos de machine learning, visualizações de dados e outras análises relacionadas ao projeto.
-- `output`: Pasta contém os arquivos que são gerados como saída durante a execução do notebook Jupyter do projeto. Isso pode incluir gráficos, imagens, e arquivos html ou qualquer outra saída produzida durante a análise de dados.
-- `input`: Essa pasta contém a base de dados usada para criar o modelo de machine learning.
-- `previsao_de_renda.csv`: Este arquivo CSV é a base de dados usada para treinar e testar o modelo de machine learning, localizado na pasta `input`.
-- `Projeto2_streamlit.py`: EsSe arquivo contém o código para criar o aplicativo Streamlit com o deploy do projeto..
-- `requirements.txt`: Arquivo que contém as versão das bibliotecas Python utilizadas no deploy.
-- `Projeto2_streamlit.mov.webm`: Esse vídeo apresenta o deploy criado com o aplicativo Streamlit.
+- `Projeto Final - SQL.ipynb`: Este notebook Jupyter contém o código do análise de dados de crédito. Ele inclui análises exploratórias de dados, visualizações de dados e outras análises relacionadas ao projeto.
+- `Gráficos`: Pasta contém os arquivos dos gráficos que são gerados como saída durante a execução do notebook Jupyter do projeto.
+- `Queries`: Essa pasta contém a captura de imagem dos resultados das queries feito na AWS Athena.
+- `credit_base`: Este arquivo CSV é a base de dados usada para a análise.
 
-
-Este repositório foi criado como parte do projeto 02 realizado no Módulo 16, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
+Este repositório foi criado como parte do projeto final do curso de SQL para análise de dados da Ebac, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
 ## Referências
 
